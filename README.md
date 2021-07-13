@@ -1,0 +1,1 @@
+This is Terran's first git project!
